@@ -1,0 +1,881 @@
+#Rectangle_2{
+
+
+position: absolute;
+width: 1159px;
+height: 833px;
+left: 138px;
+top: 153px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+#Rectangle_12{
+
+
+position: absolute;
+width: 279px;
+height: 43px;
+left: 551px;
+top: 569px;
+
+background: #E7E7E7;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#Rectangle_1{
+
+
+position: absolute;
+width: 1159px;
+height: 84px;
+left: 138px;
+top: 39px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#HYDROSTATIC_JOURNAL_BEARINGS_TOOL_BOX{
+
+
+position: absolute;
+width: 1346px;
+height: 72px;
+left: 43px;
+top: 51px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 57px;
+text-align: center;
+
+color: #000000;
+}
+
+
+#Rectangle_3{
+
+
+position: absolute;
+width: 279px;
+height: 43px;
+left: 426px;
+top: 175px;
+
+background: #E7E7E7;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#Rectangle_5{
+
+
+position: absolute;
+width: 112px;
+height: 45px;
+left: 509px;
+top: 243px;
+
+background: #E7E7E7;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#Rectangle_6{
+
+position: absolute;
+width: 112px;
+height: 45px;
+left: 555px;
+top: 351px;
+
+background: #E7E7E7;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#Rectangle_10{
+
+
+position: absolute;
+width: 112px;
+height: 45px;
+left: 752px;
+top: 351px;
+
+background: #E7E7E7;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#Rectangle_11{
+
+
+position: absolute;
+width: 112px;
+height: 45px;
+left: 926px;
+top: 429px;
+
+background: #E7E7E7;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#Rectangle_7{
+
+position: absolute;
+width: 112px;
+height: 45px;
+left: 555px;
+top: 410px;
+
+background: #E7E7E7;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#Rectangle_8{
+
+
+position: absolute;
+width: 112px;
+height: 45px;
+left: 555px;
+top: 470px;
+
+background: #E7E7E7;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#UNIT_SYSTEM{
+
+
+position: absolute;
+width: 219px;
+height: 31px;
+left: 176px;
+top: 181px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+text-align: center;
+
+color: #000000;
+}
+
+
+#Number_of_Recess{
+
+
+position: absolute;
+width: 299px;
+height: 37px;
+left: 176px;
+top: 251px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+text-align: center;
+
+color: #000000;
+}
+
+
+#Supply_Pressure_Ps{
+
+
+position: absolute;
+width: 380px;
+height: 33px;
+left: 883px;
+top: 359px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+text-align: center;
+
+color: #000000;
+}
+
+
+#Speed_N{
+
+
+position: absolute;
+width: 190px;
+height: 38px;
+left: 1059px;
+top: 436px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+text-align: center;
+
+color: #000000;
+}
+
+
+#mm_Newton_MPa_degC_cPoise_gramCC_lpm_rpm{
+
+
+position: absolute;
+width: 854px;
+height: 45px;
+left: 539px;
+top: 189px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #7A7878;
+}
+
+
+#SI_Unit{
+
+
+position: absolute;
+width: 236px;
+height: 39px;
+left: 416px;
+top: 181px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+text-align: center;
+
+color: #7A7878;
+}
+
+
+#Capillary {
+
+
+position: absolute;
+width: 236px;
+height: 39px;
+left: 561px;
+top: 574px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+text-align: center;
+
+color: #7A7878;
+}
+
+
+#num_02{
+
+
+position: absolute;
+width: 92px;
+height: 39px;
+left: 519px;
+top: 251px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+text-align: center;
+
+color: #7A7878;
+}
+
+
+#num_120{
+
+
+position: absolute;
+width: 92px;
+height: 39px;
+left: 565px;
+top: 359px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+text-align: center;
+
+color: #7A7878;
+}
+
+
+#num_12_5{
+
+position: absolute;
+width: 92px;
+height: 39px;
+left: 762px;
+top: 357px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+text-align: center;
+
+color: #7A7878;
+}
+
+
+#num_100{
+
+
+position: absolute;
+width: 92px;
+height: 39px;
+left: 565px;
+top: 417px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+text-align: center;
+
+color: #7A7878;
+}
+
+
+#num_85{
+
+
+position: absolute;
+width: 92px;
+height: 39px;
+left: 565px;
+top: 475px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+text-align: center;
+
+color: #7A7878;
+}
+
+
+#Rectangle_4{
+
+
+position: absolute;
+width: 41px;
+height: 43px;
+left: 664px;
+top: 175px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#Rectangle_13{
+
+
+position: absolute;
+width: 41px;
+height: 43px;
+left: 789px;
+top: 567px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#Polygon_1{
+
+
+position: absolute;
+width: 38px;
+height: 24px;
+left: 705px;
+top: 205px;
+
+background: #666262;
+transform: rotate(-180deg);
+}
+
+#Polygon_2{
+
+
+position: absolute;
+width: 38px;
+height: 24px;
+left: 830px;
+top: 598px;
+
+background: #666262;
+transform: rotate(-180deg);
+}
+
+#Line_1{
+
+
+position: absolute;
+width: 1090px;
+height: 0px;
+left: 173px;
+top: 321px;
+
+background: #000000;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: rotate(-0.05deg);
+}
+
+#Line_2{
+
+
+position: absolute;
+width: 1090px;
+height: 0px;
+left: 173px;
+top: 544px;
+
+background: #000000;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: rotate(-0.05deg);
+}
+
+#Line_3{
+
+
+position: absolute;
+width: 1090px;
+height: 0px;
+left: 173px;
+top: 640px;
+
+background: #000000;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: rotate(-0.05deg);
+}
+
+#Rectangle_9{
+
+
+position: absolute;
+width: 281px;
+height: 45px;
+left: 667px;
+top: 243px;
+
+background: #C1C1C1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#Rectangle_20{
+
+
+position: absolute;
+width: 153px;
+height: 49px;
+left: 1110px;
+top: 911px;
+
+background: #C1C1C1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#Rectangle_21{
+
+
+position: absolute;
+width: 153px;
+height: 49px;
+left: 905px;
+top: 911px;
+
+background: #C1C1C1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#Rectangle_14{
+
+
+position: absolute;
+width: 375px;
+height: 39px;
+left: 180px;
+top: 710px;
+
+background: #C1C1C1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#Rectangle_18{
+
+
+position: absolute;
+width: 315px;
+height: 39px;
+left: 948px;
+top: 766px;
+
+background: #C1C1C1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#Rectangle_19{
+
+
+position: absolute;
+width: 266px;
+height: 39px;
+left: 997px;
+top: 828px;
+
+background: #C1C1C1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#Rectangle_16{
+
+
+position: absolute;
+width: 449px;
+height: 39px;
+left: 180px;
+top: 828px;
+
+background: #C1C1C1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#Rectangle_15{
+
+
+position: absolute;
+width: 576px;
+height: 39px;
+left: 181px;
+top: 766px;
+
+background: #C1C1C1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#Rectangle_17{
+
+
+position: absolute;
+width: 608px;
+height: 39px;
+left: 652px;
+top: 710px;
+
+background: #C1C1C1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#Recess_Data{
+
+
+position: absolute;
+width: 236px;
+height: 39px;
+left: 690px;
+top: 251px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+text-align: center;
+
+color: #5C5959;
+}
+
+
+#RUN{
+
+
+position: absolute;
+width: 120px;
+height: 39px;
+left: 1130px;
+top: 922px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+text-align: center;
+
+color: #5C5959;
+}
+
+
+#EXIT{
+
+position: absolute;
+width: 120px;
+height: 39px;
+left: 925px;
+top: 922px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+text-align: center;
+
+color: #5C5959;
+}
+
+
+#Journal_Diameter_D{
+
+
+position: absolute;
+width: 361px;
+height: 34px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+}
+
+
+#identical_to_box_height{
+
+text-align: center;
+
+color: #000000;
+}
+
+
+#Axial_Length_L{
+
+
+position: absolute;
+width: 289px;
+height: 34px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+}
+
+
+#identical_to_box_height{
+
+text-align: center;
+
+color: #000000;
+}
+
+
+#Viscosity_η{
+
+position: absolute;
+width: 235px;
+height: 34px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+}
+
+
+#identical_to_box_height{
+
+text-align: center;
+
+color: #000000;
+}
+
+
+#Restrictor_type{
+
+
+position: absolute;
+width: 271px;
+height: 34px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+}
+
+
+
+#identical_to_box_height{
+text-align: center;
+
+color: #000000;
+}
+
+
+#Variable_Parameters{
+
+
+position: absolute;
+width: 343px;
+height: 34px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 34px;
+}
+
+
+#identical_to_box_height{
+
+text-align: center;
+
+color: #000000;
+}
+
+
+#Land-width_Ratio_aL{
+
+
+position: absolute;
+width: 331px;
+height: 28px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 28px;
+text-align: center;
+
+color: #5C5959;
+}
+
+
+#Inter-recess_Land-width_Ratio_b-a{
+
+
+position: absolute;
+width: 526px;
+height: 28px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 28px;
+text-align: center;
+
+color: #5C5959;
+}
+
+
+#Length-diameter_Ratio_L_D{
+
+
+position: absolute;
+width: 406px;
+height: 28px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 28px;
+text-align: center;
+
+color: #5C5959;
+}
+
+
+#Lower_Radiance_clearance_limit_ho-L{
+
+
+position: absolute;
+width: 571px;
+height: 28px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 28px;
+text-align: center;
+
+color: #5C5959;
+}
+
+
+#Power_Ratio_K{
+
+
+position: absolute;
+width: 226px;
+height: 28px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 28px;
+text-align: center;
+
+color: #5C5959;
+}
+
+
+#Pressure_Ratio_β{
+
+
+position: absolute;
+width: 271px;
+height: 28px;
+
+font-family: Cousine;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 28px;
+text-align: center;
+
+color: #5C5959;
+}
