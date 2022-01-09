@@ -879,3 +879,12 @@ text-align: center;
 
 color: #5C5959;
 }
+
+
+img{
+    display: block;
+    align-self: stretch;
+    padding-bottom: 10cm;
+    bottom: 1cm;
+  width: 50%;
+}
