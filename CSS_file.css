@@ -50,20 +50,20 @@
     #HYDROSTATIC_JOURNAL_BEARINGS_TOOL_BOX{
     
     
-    position: absolute;
-    width: 1346px;
-    height: 72px;
-    left: 43px;
-    top: 102px;
-    
-    font-family: Cousine;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 50px;
-    line-height: 57px;
-    text-align: center;
-    
-    color: #000000;
+        position: absolute;
+        width: 1159px;
+        height: 84px;
+        left: 138px;
+        top: 210px;
+        
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 50px;
+        line-height: 57px;
+        text-align: center;
+        
+        color: #000000;
     }
     
     
@@ -165,7 +165,7 @@
     left: 176px;
     top: 362px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 30px;
@@ -180,18 +180,17 @@
     
     
     position: absolute;
-    width: 299px;
+    width: 310px;
     height: 37px;
-    left: 176px;
-    top: 502px;
+    left: 160px;
+    top: 495px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 30px;
     line-height: 34px;
     text-align: center;
-    
     color: #000000;
     }
     
@@ -205,7 +204,7 @@
     left: 883px;
     top: 718px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 30px;
@@ -225,7 +224,7 @@
     left: 1059px;
     top: 872px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 30px;
@@ -243,9 +242,9 @@
     width: 854px;
     height: 45px;
     left: 539px;
-    top: 378px;
+    top: 365px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -263,9 +262,9 @@
     width: 236px;
     height: 39px;
     left: 416px;
-    top: 362px;
+    top: 358px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 30px;
@@ -283,7 +282,7 @@
     width: 236px;
     height: 39px;
     left: 561px;
-    top: 1148px;
+    top: 1143px;
     
     font-family: Cousine;
     font-style: normal;
@@ -616,9 +615,9 @@
     width: 236px;
     height: 39px;
     left: 690px;
-    top: 502px;
+    top: 495px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 30px;
@@ -636,9 +635,9 @@
     width: 120px;
     height: 39px;
     left: 1130px;
-    top: 1844px;
+    top: 1832px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 30px;
@@ -655,9 +654,9 @@
     width: 120px;
     height: 39px;
     left: 925px;
-    top: 1844px;
+    top: 1832px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 30px;
@@ -674,8 +673,10 @@
     position: absolute;
     width: 361px;
     height: 34px;
+    left: 180px;
+    top: 702px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 30px;
@@ -697,8 +698,10 @@
     position: absolute;
     width: 289px;
     height: 34px;
+    left: 180px;
+    top: 820px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 30px;
@@ -719,8 +722,10 @@
     position: absolute;
     width: 235px;
     height: 34px;
+    top: 940px;
+    left: 180px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 30px;
@@ -742,8 +747,10 @@
     position: absolute;
     width: 271px;
     height: 34px;
+    left: 180px;
+    top: 1142px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 30px;
@@ -765,11 +772,13 @@
     position: absolute;
     width: 343px;
     height: 34px;
+    top: 1320px;
+    left: 527px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 35px;
     line-height: 34px;
     }
     
@@ -788,8 +797,10 @@
     position: absolute;
     width: 331px;
     height: 28px;
+    left: 198px;
+    top: 1427px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 25px;
@@ -806,8 +817,10 @@
     position: absolute;
     width: 526px;
     height: 28px;
+    left: 181px;
+    top: 1538px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 25px;
@@ -824,8 +837,10 @@
     position: absolute;
     width: 406px;
     height: 28px;
+    left: 180px;
+    top: 1662px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 25px;
@@ -842,8 +857,10 @@
     position: absolute;
     width: 571px;
     height: 28px;
+    top: 1427px;
+    left: 652px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 25px;
@@ -860,8 +877,10 @@
     position: absolute;
     width: 226px;
     height: 28px;
+    top: 1662px;
+    left: 1005px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 25px;
@@ -878,8 +897,10 @@
     position: absolute;
     width: 271px;
     height: 28px;
+    left: 965px;
+    top: 1538px;
     
-    font-family: Cousine;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 25px;
@@ -900,4 +921,3 @@
         margin-top: 120px;
         background-color: #2a2a2a;
     }
-    
