@@ -1,0 +1,1002 @@
+#head{
+
+    position: absolute;
+    width: 100%;
+    height: 35%;
+    margin-top: 15px;
+    margin-left: 15px;
+
+
+}
+#Rectangle_2{
+
+
+    position: absolute;
+    width: 1159px;
+    height: 450px;
+    left: 38px;
+    top: 306px;
+    border: rgb(0, 0, 0);
+    border-radius: 10px;
+    
+    
+    background: #C4C4C4;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    #Rectangle_12{
+    
+    
+    position: absolute;
+    width: 200px;
+    height: 35px;
+    left: 400px;
+    top: 595px;
+    
+    
+    background: #E7E7E7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+   /* #Rectangle_1{
+    
+    
+    position: absolute;
+    width: 1159px;
+    height: 84px;
+    left: 138px;
+    top: 200px;
+    
+    background: #C4C4C4;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }*/
+    
+    #HYDROSTATIC_JOURNAL_BEARINGS_TOOL_BOX{
+    
+    
+        position: absolute;
+        height: 84px;
+        left: 500px;
+        top: 190px;
+        
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 50px;
+        line-height: 57px;
+        text-align: justify;
+        
+        color: #000000;
+    }
+    
+    
+    #Rectangle_3{
+    
+    
+    position: absolute;
+    width: 200px;
+    height: 35px;
+    left: 400px;
+    top: 345px;
+    
+    background: #E7E7E7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    #Rectangle_5{
+    
+    
+    position: absolute;
+    width: 200px;
+    height: 35px;
+    left: 400px;
+    top: 395px;
+    
+    background: #E7E7E7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    #Rectangle_6{
+    
+    position: absolute;
+    width: 200px;
+    height: 35px;
+    left: 400px;
+    top: 445px;
+    
+    background: #E7E7E7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    #Rectangle_10{
+    
+    
+    position: absolute;
+    width: 200px;
+    height: 35px;
+    left: 400px;
+    top: 645px;
+    
+    background: #E7E7E7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    #Rectangle_11{
+    
+    
+    position: absolute;
+    width: 200px;
+    height: 35px;
+    left: 400px;
+    top: 695px;
+    
+    background: #E7E7E7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    #Rectangle_7{
+    
+    position: absolute;
+    width: 200px;
+    height: 35px;
+    left: 400px;
+    top: 495px;
+    
+    background: #E7E7E7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    #Rectangle_8{
+    
+    
+    position: absolute;
+    width: 200px;
+    height: 35px;
+    left: 400px;
+    top: 545px;
+    
+    background: #E7E7E7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    #UNIT_SYSTEM{
+    
+    
+    position: absolute;
+    
+    height: 31px;
+    left: 75px;
+    top: 350px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    text-align: center;
+    
+    color: #000000;
+    }
+    
+    
+    #Number_of_Recess{
+    
+    
+    position: absolute;
+   
+    height: 37px;
+    left: 75px;
+    top: 400px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    text-align: center;
+    color: #000000;
+    }
+    
+      #Line_1{
+    
+    
+    position: absolute;
+    width: 1090px;
+    height: 0px;
+    left: 460px;
+    top: 250px;
+    
+    background: #000000;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: rotate(-0.05deg);
+    }
+
+        
+    /*#mm_Newton_MPa_degC_cPoise_gramCC_lpm_rpm{
+    
+    
+    position: absolute;
+    height: 45px;
+    left: 620px;
+    top: 350px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 23px;
+    text-align: center;
+    
+    color: #7A7878;
+    }*/
+    
+    
+    /*#SI_Unit{
+    
+    
+    position: absolute;
+    width: 236px;
+    height: 39px;
+    left: 416px;
+    top: 358px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 34px;
+    text-align: center;
+    
+    color: #7A7878;
+    }*/
+    
+    
+    /*#Capillary {
+    
+    
+    position: absolute;
+    width: 236px;
+    height: 39px;
+    left: 561px;
+    top: 1143px;
+    
+    font-family: Cousine;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    text-align: center;
+    
+    color: #7A7878;
+    }
+    */
+    
+    /*#num_02{
+    
+    
+    position: absolute;
+    width: 92px;
+    height: 39px;
+    left: 519px;
+    top: 502px;
+    
+    font-family: Cousine;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    text-align: center;
+    
+    color: #7A7878;
+    }
+    
+    
+    #num_120{
+    
+    
+    position: absolute;
+    width: 92px;
+    height: 39px;
+    left: 565px;
+    top: 718px;
+    
+    font-family: Cousine;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    text-align: center;
+    
+    color: #7A7878;
+    }
+    
+    
+    #num_12_5{
+    
+    position: absolute;
+    width: 92px;
+    height: 39px;
+    left: 762px;
+    top: 714px;
+    
+    font-family: Cousine;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 34px;
+    text-align: center;
+    
+    color: #7A7878;
+    }
+    
+    
+    #num_100{
+    
+    
+    position: absolute;
+    width: 92px;
+    height: 39px;
+    left: 565px;
+    top: 834px;
+    
+    font-family: Cousine;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 34px;
+    text-align: center;
+    
+    color: #7A7878;
+    }
+    
+    
+    #num_85{
+    
+    
+    position: absolute;
+    width: 92px;
+    height: 39px;
+    left: 565px;
+    top: 950px;
+    
+    font-family: Cousine;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 34px;
+    text-align: center;
+    
+    color: #7A7878;
+    }*/
+    
+    
+    /*#Rectangle_4{
+    
+    
+    position: absolute;
+    width: 41px;
+    height: 43px;
+    left: 664px;
+    top: 350px;
+    
+    background: #C4C4C4;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }*/
+    
+    /*#Rectangle_13{
+    
+    
+    position: absolute;
+    width: 41px;
+    height: 43px;
+    left: 789px;
+    top: 1134px;
+    
+    background: #C4C4C4;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    #Polygon_1{
+    
+    
+    position: absolute;
+    width: 38px;
+    height: 24px;
+    left: 705px;
+    top: 410px;
+    
+    background: #666262;
+    transform: rotate(-180deg);
+    }
+    
+    #Polygon_2{
+    
+    
+    position: absolute;
+    width: 38px;
+    height: 24px;
+    left: 830px;
+    top: 1196px;
+    
+    background: #666262;
+    transform: rotate(-180deg);
+    }*/
+    
+  
+    
+    /*#Line_2{
+    
+    
+    position: absolute;
+    width: 1090px;
+    height: 0px;
+    left: 173px;
+    top: 1088px;
+    
+    background: #000000;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: rotate(-0.05deg);
+    }
+    
+    #Line_3{
+    
+    
+    position: absolute;
+    width: 1090px;
+    height: 0px;
+    left: 173px;
+    top: 1280px;
+    
+    background: #000000;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: rotate(-0.05deg);
+    }*/
+    
+    /*#Rectangle_9{
+    
+    
+    position: absolute;
+    width: 281px;
+    height: 45px;
+    left: 667px;
+    top: 486px;
+    
+    background: #C1C1C1;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }*/
+    
+    /*#Rectangle_20{
+    
+    
+    position: absolute;
+    width: 153px;
+    height: 49px;
+    left: 1110px;
+    top: 1822px;
+    
+    background: #C1C1C1;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    #Rectangle_21{
+    
+    
+    position: absolute;
+    width: 153px;
+    height: 49px;
+    left: 905px;
+    top: 1822px;
+    
+    background: #C1C1C1;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    #Rectangle_14{
+    
+    
+    position: absolute;
+    width: 375px;
+    height: 39px;
+    left: 180px;
+    top: 1420px;
+    
+    background: #C1C1C1;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    #Rectangle_18{
+    
+    
+    position: absolute;
+    width: 315px;
+    height: 39px;
+    left: 948px;
+    top: 1532px;
+    
+    background: #C1C1C1;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    #Rectangle_19{
+    
+    
+    position: absolute;
+    width: 266px;
+    height: 39px;
+    left: 997px;
+    top: 1656px;
+    
+    background: #C1C1C1;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    #Rectangle_16{
+    
+    
+    position: absolute;
+    width: 449px;
+    height: 39px;
+    left: 180px;
+    top: 1656px;
+    
+    background: #C1C1C1;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    #Rectangle_15{
+    
+    
+    position: absolute;
+    width: 576px;
+    height: 39px;
+    left: 181px;
+    top: 1532px;
+    
+    background: #C1C1C1;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    #Rectangle_17{
+    
+    
+    position: absolute;
+    width: 608px;
+    height: 39px;
+    left: 652px;
+    top: 1420px;
+    
+    background: #C1C1C1;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+
+    */
+
+
+    #Recess_Data{
+    
+    
+    position: absolute;
+    width: 236px;
+    height: 39px;
+    left: 265px;
+    top: 495px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    text-align: center;
+    
+    color: #5C5959;
+    }
+    
+    
+    
+    #Journal_Diameter_D{
+    
+    
+    position: absolute;
+    width: 361px;
+    height: 34px;
+    left: 75px;
+    top: 450px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    }
+    
+    
+    #identical_to_box_height{
+    
+    text-align: center;
+    
+    color: #000000;
+    }
+    
+    
+    #Axial_Length_L{
+    
+    
+    position: absolute;
+    height: 34px;
+    left: 75px;
+    top: 500px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    }
+    
+    
+    #identical_to_box_height{
+    
+    text-align: center;
+    
+    color: #000000;
+    }
+    
+    
+    #Viscosity_η{
+    
+    position: absolute;
+    height: 34px;
+    top: 550px;
+    left: 75px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    }
+    
+    
+    #identical_to_box_height{
+    
+    text-align: center;
+    
+    color: #000000;
+    }
+    
+    
+    #Restrictor_type{
+    
+    
+    position: absolute;
+    height: 34px;
+    left: 75px;
+    top: 600px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    }
+
+
+    #Supply_Pressure_Ps{
+    
+    
+        position: absolute;
+        height: 33px;
+        left: 75px;
+        top: 650px;
+        
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 34px;
+        text-align: center;
+        
+        color: #000000;
+        }
+        
+        
+        #Speed_N{
+        
+        
+        position: absolute;
+        height: 38px;
+        left: 75px;
+        top: 700px;
+        
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 34px;
+        text-align: center;
+        
+        color: #000000;
+        }
+    
+    
+    
+   /* #identical_to_box_height{
+    text-align: center;
+    
+    color: #000000;
+    }
+    
+    
+    
+    
+    
+    #identical_to_box_height{
+    
+    text-align: center;
+    
+    color: #000000;
+    }
+    
+    
+    #Land-width_Ratio_aL{
+    
+    
+    position: absolute;
+    width: 331px;
+    height: 28px;
+    left: 198px;
+    top: 1427px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    
+    color: #5C5959;
+    }
+    
+    
+    #Inter-recess_Land-width_Ratio_b-a{
+    
+    
+    position: absolute;
+    width: 526px;
+    height: 28px;
+    left: 181px;
+    top: 1538px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    
+    color: #5C5959;
+    }
+    
+    
+    #Length-diameter_Ratio_L_D{
+    
+    
+    position: absolute;
+    width: 406px;
+    height: 28px;
+    left: 180px;
+    top: 1662px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    
+    color: #5C5959;
+    }
+    
+    
+    #Lower_Radiance_clearance_limit_ho-L{
+    
+    
+    position: absolute;
+    width: 571px;
+    height: 28px;
+    top: 1427px;
+    left: 652px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    
+    color: #5C5959;
+    }
+    
+    
+    #Power_Ratio_K{
+    
+    
+    position: absolute;
+    width: 226px;
+    height: 28px;
+    top: 1662px;
+    left: 1005px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    
+    color: #5C5959;
+    }
+    
+    
+    #Pressure_Ratio_β{
+    
+    
+    position: absolute;
+    width: 271px;
+    height: 28px;
+    left: 965px;
+    top: 1538px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    
+    color: #5C5959;
+    }*/
+  
+    
+    #bar{
+        
+        float: left;
+        position: absolute;
+        width: 100%;
+        height: 40px;
+        margin-top: 120px;
+        margin-left: 0px;
+        margin-right: 0px;
+        background-color: #2a2a2a;
+    }
+
+    .but {
+        position:relative;
+        left: 38px;
+        top: 510px;
+        background: #a2a0a0;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border: black;
+        color: white;
+        padding: 16px 32px;
+        text-align: center;
+        font-size: 16px;
+        margin: 4px 2px;
+        opacity: 0.6;
+        transition: 0.3s;
+        display: inline-block;
+        text-decoration: none;
+        cursor: pointer;
+       }
+ 
+    .but:hover {background: #eee;}
+    .RUN {color: rgb(0, 0, 0);}
+    .EXIT {color: rgb(0, 0, 0);}
+
+
+    /*.RUN{
+    
+    
+        position: absolute;
+        height: 39px;
+        left: 38px;
+        top: 780px;
+        
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        line-height: 34px;
+        text-align: center;
+        
+        color: #5C5959;
+        }
+        
+        
+        .EXIT{
+        
+        position: absolute;
+        height: 39px;
+        left: 138px;
+        top: 780px;
+        
+        
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        line-height: 34px;
+        text-align: center;
+        
+        color: #5C5959;
+        }
+    */
+    
+
+    .btn {
+       position:relative;
+        top: 510px;
+        left: 490px;
+        
+        background: #a2a0a0;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border: black;
+        color: white;
+        padding: 16px 32px;
+        text-align: center;
+        font-size: 16px;
+        margin: 4px 2px;
+        opacity: 0.6;
+        transition: 0.3s;
+        display: inline-block;
+        text-decoration: none;
+        cursor: pointer;
+      }
+
+      .btn:hover {background: #eee;}
+.pumpdata {color: rgb(0, 0, 0);}
+.loadingdata {color: rgb(0, 0, 0);}
+.recessdata {color: rgb(0, 0, 0);}
+ 
+#Variable_Parameters{
+    
+    
+    position: absolute;
+    width: 343px;
+    height: 34px;
+    top: 390px;
+    left: 700px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 34px;
+    }
+
+
+.box{
+    position:relative;
+    top: 420px;
+    left: 690px;
+    height: 35px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: black;
+    color: white;
+    padding: 5px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 8px 4px;
+    display: block;
+}
+
+.power_ratio {color: rgb(0, 0, 0);}
+.pressure_ratio {color: rgb(0, 0, 0);}
+.land {color: rgb(0, 0, 0);}
+.length_width {color: rgb(0, 0, 0);}
+.inter_recess {color: rgb(0, 0, 0);}
+.lower_rad {color: rgb(0, 0, 0);}
