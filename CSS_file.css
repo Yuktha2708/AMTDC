@@ -1,13 +1,3 @@
-#head{
-
-    position: absolute;
-    width: 100%;
-    height: 35%;
-    margin-top: 15px;
-    margin-left: 15px;
-
-
-}
 #Rectangle_2{
 
 
@@ -451,3 +441,22 @@
 .length_width {color: rgb(0, 0, 0);}
 .inter_recess {color: rgb(0, 0, 0);}
 .lower_rad {color: rgb(0, 0, 0);}
+
+
+
+.image1
+{
+    position: absolute;
+    width: inherit;
+    height: inherit;
+    margin-top: 10px;
+
+}
+.image2
+{
+    position: absolute;
+width:600px;
+height:500px;
+margin-top: 290px;
+left:1350px;
+}
